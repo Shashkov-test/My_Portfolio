@@ -14,7 +14,7 @@ const personaDetails = [
 
   {
     label: "Age",
-    value: "20",
+    value: "21",
   },
 
   {
@@ -33,7 +33,7 @@ const personaDetails = [
   }
 ];
 
-const personaInfo = 'To tell the truth, not a very experienced front end developer. I started studying this matter a year ago, when I still did not know what programming languages are and what is the specific difference between them. When I wrote my first landing page using javascript, looking at the result, I can say with all confidence that I am very passionate and I like creating the client side of the interface. I studied, am studying and will study even more than before, because I want to achieve unforgettable successes as a front-end developer.';
+const personaInfo = "I am looking for a Front End Developer position. I have been learning and improving my skills for overa year. When I wrote my first landing page using javascript, looking at the result, I can say withconfidence that I am very enthusiastic and I like to create the client side of the interface. Currently, I really want to develop in this area and grow technically. Thus, I would like to contribute to the company's projects. About myself, I can add that I am diligent, persistent, and ready to work for results.";
 
 const About = () => {
   return (

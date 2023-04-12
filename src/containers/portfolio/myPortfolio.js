@@ -1,8 +1,16 @@
 import ImageMarvel from '../../images/marvel.png';
 import ImageToDoList from '../../images/todolist.png';
 import ImageNothing from '../../images/nothing.png';
+import ImageCryptoverse from '../../images/cryptoverse.png'
 
 export const portfolioData = [
+    {
+      id: 2,
+      name: "Cryptoverse",
+      image: ImageCryptoverse,
+      link: 'https://cryptoverce-shashkov.netlify.app/',
+    },
+
     {
       id: 2,
       name: "Marvel Website",
@@ -14,7 +22,7 @@ export const portfolioData = [
       id: 2,
       name: "TodoList",
       image: ImageToDoList,
-      link: 'https://shashkov-test.github.io/Shashkov-test.github.io-todolist/',
+      link: 'https://shashkov-todo-list.netlify.app/',
     },
   
     {
@@ -22,7 +30,14 @@ export const portfolioData = [
       name: "Nothing here.....",
       image: ImageNothing,
       link: 'http://www.thereisnothinghere.com/',
-    }
+    },
+
+    /* {
+      id: 2,
+      name: "Random online store",
+      image: ImageNothing,
+      link: 'http://www.thereisnothinghere.com/',
+    }, */
 ];
   
 export const filterData = [
