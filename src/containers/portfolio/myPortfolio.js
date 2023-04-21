@@ -5,6 +5,13 @@ import ImageCryptoverse from "../../images/cryptoverse.png";
 import ImageHeroes from "../../images/heroes.png";
 
 export const portfolioData = [
+    {
+    id: 2,
+    name: "Modern Todo-List",
+    image: ImageToDoList,
+    link: "https://shashkov-modern-todo-list.netlify.app/",
+  },
+  
   {
     id: 2,
     name: "Marvel Information Portal",
@@ -24,13 +31,6 @@ export const portfolioData = [
     name: "Hero admin panel template",
     image: ImageHeroes,
     link: "https://shashkov-hero-admin-panel-template.netlify.app/",
-  },
-
-  {
-    id: 2,
-    name: "TodoList",
-    image: ImageToDoList,
-    link: "https://shashkov-todo-list.netlify.app/",
   },
 
   {
